@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8e3e341-9081-4881-bea1-23ebcd14a9b4": {
+      "ProjectGuid": "b8e3e341-9081-4881-bea1-23ebcd14a9b4",
+      "DisplayName": "TicTacToeApp",
+      "ColorIndex": 0
+    },
+    "39a236de-a96c-41e0-8818-a6bc222f8923": {
+      "ProjectGuid": "39a236de-a96c-41e0-8818-a6bc222f8923",
+      "DisplayName": "TicTacToeApp.Logic",
+      "ColorIndex": 1
+    },
+    "b9323dc0-79d8-4176-9b20-2a4d6dff81c6": {
+      "ProjectGuid": "b9323dc0-79d8-4176-9b20-2a4d6dff81c6",
+      "DisplayName": "TicTacToeApp.Testing",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

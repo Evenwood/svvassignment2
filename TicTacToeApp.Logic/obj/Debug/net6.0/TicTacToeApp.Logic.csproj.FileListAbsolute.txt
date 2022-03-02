@@ -1,0 +1,12 @@
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\bin\Debug\net6.0\TicTacToeApp.Logic.deps.json
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\bin\Debug\net6.0\TicTacToeApp.Logic.dll
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\bin\Debug\net6.0\ref\TicTacToeApp.Logic.dll
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\bin\Debug\net6.0\TicTacToeApp.Logic.pdb
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.csproj.AssemblyReference.cache
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.AssemblyInfoInputs.cache
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.AssemblyInfo.cs
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.csproj.CoreCompileInputs.cache
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.dll
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\ref\TicTacToeApp.Logic.dll
+D:\ETSU\Grad\CSCI\5220 - Software Verification & Validation\TicTacToeApp\TicTacToeApp.Logic\obj\Debug\net6.0\TicTacToeApp.Logic.pdb
